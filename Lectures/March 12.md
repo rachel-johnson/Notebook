@@ -1,0 +1,60 @@
+# Lecutre: Moduel 3 - Archeo-Gaming
+---
+Guest Lecutrer: Andrew Reinhard
+
+-	Very inclusive field
+-	Any video game is archeological in its nature – doesn’t have to have history in it
+    -	Built heritage – organic game itself, changes 
+        -	Literal sense – historic buildings
+        -	Games – preserved, modified over time, people interact with
+    -	Colossal cave adventure
+        -	Physical representation 
+        -	Fidelity of reconstructing something – depends on the game 
+-	Speed at which games change 
+    -	Perceived permanence of archeological sites 
+    -	Transitions more apparent in games, sites change slowly – but cannot perceive change
+    -	Photography allows us to see how archeological sites can 
+    -	Matter of how we perceive time – digital space vs. real world 
+-	York – video game archive 
+-	Internet archive – published documentation from Atari (cultural context)
+-	Games – very social things 
+    -	Too much – how do you decide what to curate?
+    -	Digital age – need to deal with economy of scale, choose what to keep 
+    -	Materiality of games – cannot separate, part of authentic experience
+        -	Idea of play space 
+        -	Nostalgia/reverence for games – through the object 
+        -	Places that activate memory – through senses
+    -	Focus so much on visual – other part is sound 
+        -	More realistic it becomes – the more it affects real world 
+        -	Material memory – objects which trigger memories 
+-	Questions of accessibility
+    -	Designs – who do they imagine are the players?
+    -	Ex. Controllers – who can use them
+-	A space that is also several other spaces at the same time
+    -	Harris Matrix – how to draw 3d space in 2d
+        -	Allows to think about space in organic way while its growing
+-	Archeology is 4d – time & space
+-	How to flaws in an original game factor into preservation?
+    -	Glitches – an artifact in a game (eventually disappears in new versions)
+        -	Artifacts which change over time
+    -	Nerfing – reducing aggressive behaviour in game play
+-	Online education 
+    -	Being able to learn stuff without an instructor 
+    -	Emergent effect of hardware, electricity, and a player
+    -	Tutorials – disappearing in the games 
+        -	Now more about learning through doing
+-	Dangers of claims of historical accuracy
+    -	Push back sometimes 
+    -	Trying to engage with history (good) – might need some help/work
+        -	Should be encouraged to think about it critically while playing
+    -	Comes down to what the game studio thinks will make money
+-	Archeogaming
+    -	Be careful not to bring in colonial baggage into games 
+    -	Ethics component – becoming more important 
+-	Working in alien environments 
+-	Working with the tools provided by the game to answer archeological questions
+-	Be as open with research as you can, write for yourself, engage with others 
+-	Archeogaming = the new archeology
+    -	It’s the new space we exist in 
+    -	Archeology uniquely situated to understand these digital spaces
+    -	Thinking about immersive environments 
