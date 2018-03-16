@@ -1,0 +1,49 @@
+# Lecutre: Module 3 - Authencity and the "Historical" Video Game
+---
+https://shawngraham.github.io/presentations/3812-mar5.html#/
+-	Bohemia 15th c – huge melting pot
+    -	Lots of complex things
+    -	Video game takes place in this setting (Kingdom Come: Deliverance)
+        -	Sets up story 
+        -	versatility, realism 
+        -	already starts with conflict between 2 brothers 
+        -	Othering takes place – clear binary within game
+        -	Constructing its own vision of the past – programing as series of forgetting
+    -	Retelling history = always chooses what to omit 
+    -	What is worthy of representation? 
+        -	Issues of authenticity/realism vs. fun
+        -	Race – game has just white, but historically there was a mix of races 
+        -	What kind of past do audiences want to remember?
+        -	Anyone not male and white in the game = other
+        -	Not in line with historical Bohemia, but in line with modern policies 
+    -	Argument about current situation 
+-	Questions about representation in a ‘historical’ game:
+    -	Who’s the villain?
+    -	Who’s the hero?
+    -	Who matters to the story?
+    -	Who’s left out?
+-	Questions of mechanics:
+    -	Are these actions reasonable/meaningful in the context in this era?
+    -	Are these actions meaningful within context of the game?
+-	Counterfactual
+    -	Some explore possible things given our understanding of the past
+    -	Some are impossible – lot of gamers talk about this 
+    -	Brings into world of simulation 
+-	Mechanics matter in what they permit the player to do 
+    -	Frame actions in larger context 
+-	Games are just a system of interactions – matter to the player and what is committed
+    -	We need to figure out relationship
+-	The graphics don’t matter a bit
+    -	We get caught up in the graphics – computing power could go towards something else
+    -	Get in the way of thinking about how video games represent the past
+        -	Only way we understand the past is through vision – which is wrong
+        -	Memory and knowing about the past is part of our embodied spirit
+    -	Ex: smell triggers memory 
+    -	Disney research – touch 
+        -	Tara Copplestone http://taracopplestone.co.uk/
+-	Critical play
+    -	Path of Honours
+        -	Focus on Roman life from perspective of young man
+        -	Military life
+        -	We would like more context to make choices
+        -	Political Roman life 
