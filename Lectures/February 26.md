@@ -1,0 +1,68 @@
+# Lecture: Module 3 - The Virtual World of the Past
+---
+Module 3 = digital things to digital worlds
+
+- Immersion: how do you engage with digital objects that are about the past?
+    - with the most appropraite medium
+- Produce something for the module which ties together digital worlds/games with previous module creations
+- Chris Crawford
+    - Games = vehicle for education
+    - Original educational technology - from natural selection
+    - Four qualities: 
+        - representation (external situations)
+        - interaction (player influences world & gets meaningful response)
+        - conflict (goal)
+        - safety (safe ways to experience real situations)
+- MDA (Mechanics, Dynamics, Aesthetics)
+    - Model three dimensions to measure game - useful scheme
+- Why do historians care?
+    - what are games/simulations for? (Jeremiah McCall)
+        - they pose meaningful questions about the past 
+        - evaluate and analyze the past
+        - discriminate between essential and trivial aspects of historical events
+        - analyze dymanic systems (interrelationships)
+    - All reconstructions of the past are interpretations - dependent on historians who create them 
+-  We play games for the pleasure of finding out what happens next
+-  Same motivation for historians:
+    - learn what happened, why they happened
+        - simulations help answer this
+- Simulations = interpretations 
+    - also the historical monograph is
+- Procedural literacy
+    - procedural rhetorics (need to understand to have literacy)
+    - mechanisms of game = historiographic tradition
+- What makes a game historical? What makes a historical game good? 
+    - genres = marketing categories
+- Ludology = study of games (as unique field)
+    - ludus = rule-based games
+    - paidea = free-form games
+    - narratology = study of storytelling (games as story systems)
+    - a typology of time of space
+        - classify in order to judge how it is suited to a particular purpose
+- Classifying games:
+    - how can representing time/space correspond with historical episodes?
+    - digitalization of history in video games combines spatialization, virtualization, and simulation - eliminates representation as the medium anchoring historical action to historical consciousness (Fogus, 121)
+- Alternate Reality Games
+    - maybe best mode for historians?
+- Ergodic Texts
+    - "require performance to be understood" & "mechanical organization of text"
+    - ex. Choose Your Own Adventure series
+    - play and read simultaneously
+    - Espen Aarseth - "ergodic" = requiring work to read
+- I Love Bees - elaborate backstory & consuming narrative
+    - transmedia puzzles to move story forward
+    - parallel to everyday reality - players gradually become aware, form communities to unravel story
+    - Tecumseh Lies Here (another ex)
+- Is it right to screw with history? What happens when people don't realize it's not a game?
+- ARGS for History: The Killer App
+    - Value to historians for:
+        - immersive, authentic experience
+        - think like a historian to succeed
+        - allows/inhabits multiple viewpoints 
+        - emergent meaning making
+- Dangers for historians?
+    - allegories of control, illuminating, of unknown masses
+    - "present evidence of story, let players tell it to themselves" (Stewart)
+    - historical research is the game
+- Prairie, Twine
+    - to make games (see FAQ)
